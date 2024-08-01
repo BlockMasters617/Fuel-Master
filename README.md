@@ -18,4 +18,4 @@ Fuel-Master is a powerful and essential plugin for Minecraft server administrato
 * Enjoy: Your server is now protected from the misuse of enchanted items as furnace fuel.
 
 ### Support:
-For any issues, suggestions, or support, feel free to reach out to our dedicated support team via our GitHub repository forums, or our [Discord Server](www.example.com)
+For any issues, suggestions, or support, feel free to reach out to our dedicated support team via our GitHub repository forums, or our [Discord Server](https://discord.gg/HY5dmSuKwv)
