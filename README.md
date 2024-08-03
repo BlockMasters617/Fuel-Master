@@ -20,6 +20,3 @@ Fuel-Master is a powerful and essential plugin for Minecraft server administrato
 
 ### Support:
 For any issues, suggestions, or support, feel free to reach out to our dedicated support team via our GitHub repository forums, or our [Discord Server](https://discord.gg/HY5dmSuKwv)
-
-### Notes
-This plugin is still in Alpha stages. It is a WIP, and will do nothing right now. Join our Discord to get notified when it releases.
