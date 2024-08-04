@@ -24,7 +24,6 @@ public class FuelMasterMain extends JavaPlugin implements Listener {
         if (event.getFuel() != null && event.getFuel().getType() != Material.AIR) {
             if (event.getFuel().hasItemMeta() && event.getFuel().getItemMeta().hasEnchants()) {
                 event.setCancelled(true);
-                event.getBlock().getWorld().createExplosion(event.getBlock().getLocation(), 0); // Optional: Add some feedback
             }
         }
     }
