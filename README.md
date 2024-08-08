@@ -1,4 +1,3 @@
-Fuel-Master
 # Fuel-Master Plugin
 Fuel-Master is a powerful and essential plugin for Minecraft server administrators who want to manage player experiences. Designed to prevent enchanted items from being used as furnace fuel, Fuel-Master ensures that valuable resources are preserved and used for their intended purposes.
 
