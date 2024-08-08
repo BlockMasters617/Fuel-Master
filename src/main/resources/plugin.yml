@@ -1,4 +1,4 @@
 name: FuelMaster
 version: 1.0
-main: com.blockmasters.fuelmaster
+main: com.blockmasters.fuelmastermain
 api-version: 1.21
