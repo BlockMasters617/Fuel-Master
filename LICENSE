@@ -3,24 +3,24 @@ Custom License
 Copyright (c) 2024 Lego
 
 Custom License Agreement
-This License Agreement (the "Agreement") sets forth the terms and conditions under which you (the "User") are permitted to use the Minecraft mods, plugins, resource packs, or datapacks (the "Software") provided by [Your Name/Organization] (the "Licensor").
+This License Agreement (the "Agreement") sets forth the terms and conditions under which you (the "User") are permitted to use the Minecraft mods, plugins, resource packs, or datapacks (the "Software") provided by BlockMastersGuild (the "Licensor").
 
 1. License Grant
-Subject to the terms and conditions of this Agreement, the Licensor hereby grants the User a non-exclusive, non-transferable, revocable license to use the Software solely for personal use or for use on a Minecraft server.
+Subject to the terms and conditions of this Agreement, the Licensor hereby grants the User a non-exclusive, non-transferable, revocable license to use the Software solely for personal use or for use on a Minecraft server smaller than 10 players.
 
 2. Restrictions
 The User is expressly prohibited from:
 
-* Modifying, merging, publishing, distributing, sublicensing, or selling copies of the Software.
+* Modifying (more than just tweaks for server use), merging, publishing, distributing, sublicensing, or selling copies of the Software.
 * Sharing the Software with others. Users must direct others to download the Software from the Licensor's authorized distribution platforms (GitHub, Hangar, or Modrinth).
 * Using the Software for any commercial purposes without prior written consent from the Licensor. This includes use on any Minecraft server with more than 5 players.
 
 3. Permission Requests
 Users must request permission from the Licensor for any of the following actions:
 
-* Using the Software for any commercial purpose, including use on any Minecraft server with more than 5 players.
+* Using the Software for any commercial purpose, including use on any Minecraft server with more than 10 players.
 * Distributing modified versions of the Software.
-* Requests for permissions must be made through the Licensor's Discord server at [Your Discord Server Invite Link].
+* Requests for permissions must be made through the Licensor's Discord server at (https://discord.gg/HY5dmSuKwv)
 
 4. Ownership
 All rights, title, and interest in and to the Software, including any modifications or derivative works, are and shall remain the exclusive property of the Licensor.
