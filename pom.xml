@@ -57,7 +57,11 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
+<<<<<<< HEAD
                             <mainClass>com.blockmasters.fuelmastermain</mainClass>
+=======
+                            <mainClass>com.blockmasters.fuelmaster</mainClass>
+>>>>>>> refs/remotes/origin/main
                         </manifest>
                     </archive>
                 </configuration>

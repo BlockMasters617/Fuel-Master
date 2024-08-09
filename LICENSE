@@ -1,37 +1,47 @@
-Custom License
-
-Copyright (c) 2024 Lego
+Copyright (c) 2024 BlockMastersGuild
 
 Custom License Agreement
-This License Agreement (the "Agreement") sets forth the terms and conditions under which you (the "User") are permitted to use the Minecraft mods, plugins, resource packs, or datapacks (the "Software") provided by [Your Name/Organization] (the "Licensor").
+
+This License Agreement (the “Agreement”) sets forth the terms and conditions under which you (the “User”) are permitted to use the Minecraft mods, plugins, resource packs, or datapacks (the “Software”) provided by BlockMastersGuild (the “Licensor”).
 
 1. License Grant
-Subject to the terms and conditions of this Agreement, the Licensor hereby grants the User a non-exclusive, non-transferable, revocable license to use the Software solely for personal use or for use on a Minecraft server.
+
+Subject to the terms and conditions of this Agreement, the Licensor hereby grants the User a non-exclusive, non-transferable, revocable license to use the Software solely for:
+
+	•	Personal use, or
+	•	Use on a Minecraft server, provided the User is the server owner.
 
 2. Restrictions
+
 The User is expressly prohibited from:
 
-* Modifying, merging, publishing, distributing, sublicensing, or selling copies of the Software.
-* Sharing the Software with others. Users must direct others to download the Software from the Licensor's authorized distribution platforms (GitHub, Hangar, or Modrinth).
-* Using the Software for any commercial purposes without prior written consent from the Licensor. This includes use on any Minecraft server with more than 5 players.
+	1.	Modifying, merging, publishing, distributing, sublicensing, or selling copies of the Software.
+	2.	Sharing the Software with others. Users must direct others to download the Software from the Licensor’s authorized distribution platforms (GitHub, Hangar, or Modrinth).
+	3.	Using the Software in any mod pack, plugin pack, or similar distribution, without prior written consent from the Licensor.
 
 3. Permission Requests
+
 Users must request permission from the Licensor for any of the following actions:
 
-* Using the Software for any commercial purpose, including use on any Minecraft server with more than 5 players.
-* Distributing modified versions of the Software.
-* Requests for permissions must be made through the Licensor's Discord server at [Your Discord Server Invite Link].
+	1.	Using the Software in any mod pack, plugin pack, or similar distribution.
+	2.	Editing the Software for purposes other than fitting the needs of the User’s server.
+
+Requests for permissions must be made through the Licensor’s Discord server at https://discord.gg/HY5dmSuKwv.
 
 4. Ownership
+
 All rights, title, and interest in and to the Software, including any modifications or derivative works, are and shall remain the exclusive property of the Licensor.
 
 5. Disclaimer of Warranties
-The Software is provided "as is," without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the Licensor be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
+
+The Software is provided “as is,” without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose, and noninfringement. In no event shall the Licensor be liable for any claim, damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the use or other dealings in the Software.
 
 6. Termination
+
 This Agreement is effective until terminated. The Licensor may terminate this Agreement at any time upon notice to the User. Upon termination, the User shall cease all use of the Software and destroy all copies thereof.
 
 7. Entire Agreement
+
 This Agreement constitutes the entire agreement between the parties concerning the subject matter hereof and supersedes all prior agreements and understandings, whether written or oral, relating to such subject matter.
 
 By using the Software, you acknowledge that you have read, understood, and agree to be bound by the terms and conditions of this Agreement.
