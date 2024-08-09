@@ -4,7 +4,6 @@ Fuel-Master is a powerful and essential plugin for Minecraft server administrato
 ### Features:
 
 * Block Enchanted Items as Furnace Fuel: Prevents any enchanted item, regardless of type or enchantment level, from being used as fuel in furnaces, blast furnaces, and smokers.
-* Customizable Messages: Provides customizable messages to inform players when they attempt to use an enchanted item as fuel, enhancing the user experience.
 
 ### Benefits
 
@@ -14,7 +13,6 @@ Fuel-Master is a powerful and essential plugin for Minecraft server administrato
 ### Installation: 
 
 * Simply drop the Fuel-Master plugin jar file into your server's plugins folder and restart the server.
-* Configuration: Customize the plugin settings and messages through the easy-to-edit configuration file.
 * Enjoy: Your server is now protected from the misuse of enchanted items as furnace fuel.
 
 ### Support:

@@ -57,7 +57,7 @@
                     <archive>
                         <manifest>
                             <addClasspath>true</addClasspath>
-                            <mainClass>com.blockmasters.fuelmaster.YourPluginMain</mainClass>
+                            <mainClass>com.blockmasters.fuelmastermain</mainClass>
                         </manifest>
                     </archive>
                 </configuration>

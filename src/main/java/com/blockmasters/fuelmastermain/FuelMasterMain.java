@@ -1,4 +1,4 @@
-package com.blockmasters.FuelMasterMain;
+package com.blockmasters.fuelmastermain;
 
 import org.bukkit.Material;
 import org.bukkit.enchantments.Enchantment;
