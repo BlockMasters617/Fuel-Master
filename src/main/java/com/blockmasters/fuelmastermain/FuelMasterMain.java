@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 package com.blockmasters.fuelmastermain;
-=======
-package com.blockmasters;
->>>>>>> refs/remotes/origin/main
 
 import org.bukkit.Material;
 import org.bukkit.enchantments.Enchantment;
