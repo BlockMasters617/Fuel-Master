@@ -1,11 +1,10 @@
-package com.blockmasters.fuelmastermain;
+package com.blockmasters.fuelmaster;
 
-import org.bukkit.Material;
-import org.bukkit.enchantments.Enchantment;
-import org.bukkit.event.EventHandler;
-import org.bukkit.event.Listener;
-import org.bukkit.event.inventory.FurnaceBurnEvent;
 import org.bukkit.plugin.java.JavaPlugin;
+import org.bukkit.event.Listener;
+import org.bukkit.event.EventHandler;
+import org.bukkit.event.inventory.FurnaceBurnEvent;
+import org.bukkit.Material;
 
 public class FuelMasterMain extends JavaPlugin implements Listener {
     @Override

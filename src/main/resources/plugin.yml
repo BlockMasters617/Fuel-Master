@@ -1,4 +1,6 @@
 name: FuelMaster
 version: 1.0
-main: com.blockmasters.fuelmastermain
-api-version: 1.21
+main: com.blockmasters.fuelmaster.FuelMasterMain
+api-version: 1.16
+description: Prevents enchanted items from being used as fuel
+author: BlockMastersGuild
