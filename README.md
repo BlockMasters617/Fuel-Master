@@ -12,7 +12,7 @@ Fuel-Master is a powerful and essential plugin for Minecraft server administrato
 
 ### Installation: 
 
-* Simply drop the Fuel-Master plugin jar file into your server's plugins folder and restart the server.
+* Simply drop the Fuel-Master plugin jar file (found under the /target directory) into your server's plugins folder and restart the server.
 * Enjoy: Your server is now protected from the misuse of enchanted items as furnace fuel.
 
 ### Support:
